@@ -75,11 +75,11 @@ Decafによる転移学習を製造現場に活用
 
 * Decafなど転移学習を応用すれば、少ない画像データでもDeepLeaningビジネスが提供できそう。
 
-* 日本国内の企業向けに展開できる可能性あり？
+* 日本国内の企業向けに細かく多様な展開ができる可能性あり？
 
 * ところでこの論文書いたのはシンガポールの女性技術者。日本も頑張れ！
-
-![例](https://ieeexplore.ieee.org/mediastore/IEEE/content/freeimages/6221036/8283862/7864335/ren-2668395-small.gif)
+<img src="https://ieeexplore.ieee.org/mediastore/IEEE/content/freeimages/6221036/8283862/7864335/ren-2668395-small.gif" width="200" height="200" />
+![例](https://ieeexplore.ieee.org/mediastore/IEEE/content/freeimages/6221036/8283862/7864335/ren-2668395-small.gif =100x20px)
 
 
 ---
