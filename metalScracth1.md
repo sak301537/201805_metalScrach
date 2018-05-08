@@ -1,9 +1,9 @@
-#
+
 
 #A Generic Deep-Learning-Based Approach
 for Automated Surface Inspection
 
-##金属表面のキズ・腐食の検査をスマート化できないの？（櫻井　敏明)
+##金属表面のキズ・腐食検査をスマート化できないの？~SORAサクライ　櫻井　敏明
 ===
 
 Submitted on 2018/03
@@ -39,6 +39,10 @@ https://arxiv.org/abs/1708.06297
 
 ## どうやって有効だと検証した？
 
+金属損傷のデータベースサイトから300のサンプルを取得するなど、データ数は非常に少ない。
+<img src="http://faculty.neu.edu.cn/yunhyan/Webpage%20for%20article/NEU%20surface%20defect%20database/Fig.1.jpg" width="400" height="400" />
+
+
 * ①　画像を分割して入力データに
 * ②　畳み込み＋プーリング　→　ImageNet/Decaf 活用（後述）
 * ③　出力データを全結合
@@ -60,9 +64,9 @@ Decafによる転移学習を製造現場に活用
 
 ![例](https://image.ibb.co/eMdEYn/scratch03.jpg)
 
-金属損傷のデータベースサイトから300のサンプルを取得するなど、データ数は非常に少ない。（http://faculty.neu.edu.cn/yunhyan/NEU_surface_defect_database.html）
 
-<img src="http://faculty.neu.edu.cn/yunhyan/Webpage%20for%20article/NEU%20surface%20defect%20database/Fig.1.jpg" width="300" height="300" />
+
+
 //![DSCイメージ](http://faculty.neu.edu.cn/yunhyan/Webpage%20for%20article/NEU%20surface%20defect%20database/Fig.1.jpg　=)
 
 ---
