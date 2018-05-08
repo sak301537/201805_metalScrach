@@ -58,7 +58,8 @@ Decafによる転移学習を製造現場に活用
 
 金属損傷のデータベースサイトから300のサンプルを取得するなど、データ数は非常に少ない。（http://faculty.neu.edu.cn/yunhyan/NEU_surface_defect_database.html）
 
-![DSCイメージ](http://faculty.neu.edu.cn/yunhyan/Webpage%20for%20article/NEU%20surface%20defect%20database/Fig.1.jpg)
+<img src="http://faculty.neu.edu.cn/yunhyan/Webpage%20for%20article/NEU%20surface%20defect%20database/Fig.1.jpg" width="300" height="300" />
+//![DSCイメージ](http://faculty.neu.edu.cn/yunhyan/Webpage%20for%20article/NEU%20surface%20defect%20database/Fig.1.jpg　=)
 
 ---
 
@@ -78,8 +79,7 @@ Decafによる転移学習を製造現場に活用
 * 日本国内の企業向けに細かく多様な展開ができる可能性あり？
 
 * ところでこの論文書いたのはシンガポールの女性技術者。日本も頑張れ！
-<img src="https://ieeexplore.ieee.org/mediastore/IEEE/content/freeimages/6221036/8283862/7864335/ren-2668395-small.gif" width="200" height="200" />
-![例](https://ieeexplore.ieee.org/mediastore/IEEE/content/freeimages/6221036/8283862/7864335/ren-2668395-small.gif =100x20px)
+<img src="https://ieeexplore.ieee.org/mediastore/IEEE/content/freeimages/6221036/8283862/7864335/ren-2668395-small.gif" width="150" height="200" />
 
 
 ---
