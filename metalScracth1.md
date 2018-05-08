@@ -90,9 +90,27 @@ Decafによる転移学習を製造現場に活用
 <img src="https://ieeexplore.ieee.org/mediastore/IEEE/content/freeimages/6221036/8283862/7864335/ren-2668395-small.gif" width="150" height="200" />
 
 
+
+
+
 ---
 
 ## 次に読むべき論文は？
 
-* 技術視点＋ビジネス視点で！
+実はもっとたくさんあるが読むの大変
+
+* 線路の表面欠陥
+https://pdfs.semanticscholar.org/b2b8/ab163fb0183325dd3458e3cbaad2f8bf265e.pdf
+
+* 熱間圧延鋼板の表面欠陥　(1675のサンプルデータで学習）
+www.mdpi.com/2075-4701/7/8/311/pdf
+
+* 鋼鉄の表面欠陥のための機械学習
+http://mit.imt.si/Revija/izvodi/mit171/zhou.pdf
+
+---
+
+##今後も 技術視点＋ビジネス視点で探します！
+
+ありがとうごいざいました。
 
