@@ -52,6 +52,9 @@ Decafによる転移学習を製造現場に活用
 ## →　Decaf（ディーキャフ）って何？
 * 転移学習（あらかじめ学習を行ったモデルを別のものに反映させる）の１つとして注目。
 * 少ないデータ数でディープラーニングできる。
+* 画像認識技術SURFより優れる、など評価が高い 　(以下は画像クラスタリングの精度比較)
+
+![例](https://image.ibb.co/eMdEYn/scratch03.jpg)
 
 金属損傷のデータベースサイトから300のサンプルを取得するなど、データ数は非常に少ない。（http://faculty.neu.edu.cn/yunhyan/NEU_surface_defect_database.html）
 
@@ -61,25 +64,27 @@ Decafによる転移学習を製造現場に活用
 
 ## 先行研究と比べて何がすごい？
 
-* エラーアノテーションを除去するにあたり、事前に専門家がつけた高品質アノテーションを必要としない。
-	* →データセットがまだない領域にも使えるかも？
+* Decafの転移学習＋MLR(多項ロジスティック回帰)を使うことで、いずれのモデルより高い精度が出た。
+
+![例](https://image.ibb.co/iLhKzS/scratch04.jpg)
 
 ---
 
 ## 議論はある？
 
-（感想）
-* 分野固有の手法を使わず、一般的なmax-flowセグメンテーションを使っているのは大丈夫？　逆に一般性があってよい？
-* 今回の医療用3次元セグメンテーションタスクでは矩形（RR）アノテーションがロバストという結果が得られたが、一般的な2次元画像のセグメンテーションでも同じ？
-    * CTスキャン画像という分野では、内臓の位置や形状はだいたい同じなので、類似画像を検索してアノテーションの重なりを評価できるかもしれないが、一般的には難しいのでは……
+
+* Decafなど転移学習を応用すれば、少ない画像データでもDeepLeaningビジネスが提供できそう。
+
+* 日本国内の企業向けに展開できる可能性あり？
+
+* ところでこの論文書いたのはシンガポールの女性技術者。日本も頑張れ！
+
+![例](https://ieeexplore.ieee.org/mediastore/IEEE/content/freeimages/6221036/8283862/7864335/ren-2668395-small.gif)
 
 
 ---
 
 ## 次に読むべき論文は？
 
-アノテーションへのクラウドソーシング活用の先行研究（個人的な興味）
 
-+ Estell´es-Arolas, E., Gonz´alez-Ladr´on-De-Guevara, F., 2012. Towards　an integrated crowdsourcing definition. Journal of Information science　38, 189–200
-* Albarqouni, S., Baur, C., Achilles, F., Belagiannis, V., Demirci, S., Navab, N., 2016. Aggnet: Deep learning from crowds for mitosis detection in breast cancer histology images. IEEE transactions on medical imaging 35, 1313–1321.
 
