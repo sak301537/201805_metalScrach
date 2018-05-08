@@ -1,8 +1,9 @@
+#
 
 #A Generic Deep-Learning-Based Approach
 for Automated Surface Inspection
 
-##(櫻井メモ)金属表面のキズ・腐食の検査をスマート化できないの？
+##金属表面のキズ・腐食の検査をスマート化できないの？（櫻井　敏明)
 ===
 
 Submitted on 2018/03
@@ -23,13 +24,16 @@ https://arxiv.org/abs/1708.06297
 * 金属表面の検査もその１つ。キズや腐食は自動計測できず、視認検査に依存する。
 * カメラ設備は高価。DeepLeaningを使うには、写真データの収集が困難。
 
+![例](https://image.ibb.co/dd5kM7/scratch01.jpg)
+
 
 ## 動機
-* 金属キズの検査基準は主観的であいまい。
-* 出荷側と受入れ側でよく揉める。担当者が代わると基準が変わる？
-* 仕様上は「キズがないこと。」　でもキズは絶対なくならない！
+* どのような製品も仕様上は「キズがないこと。」　でも金属材料のキズは絶対なくならない！
+* キズや腐食の検査基準は主観的であいまい。
+* 出荷側と受入れ側でよく揉める。担当者が代わると基準が変わってまた揉める。
 
-![例](https://image.ibb.co/dd5kM7/scratch01.jpg)
+![例](http://cdn-ak.f.st-hatena.com/images/fotolife/d/dobonkai/20130430/20130430040517.jpg)
+
 
 ---
 
