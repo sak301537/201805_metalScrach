@@ -87,7 +87,7 @@ Caffe（BAIR） の前身。ImageNetで1000の分類で鍛えた画像認識の�
 ![例](https://image.ibb.co/h3q5ty/scratch02x.jpg)
 
 
-//![DSCイメージ](http://faculty.neu.edu.cn/yunhyan/Webpage%20for%20article/NEU%20surface%20defect%20database/Fig.1.jpg　=)
+
 
 ---
 
@@ -117,7 +117,7 @@ Caffe（BAIR） の前身。ImageNetで1000の分類で鍛えた画像認識の�
 ---
 
 ## 次に読むべき論文は？
-実は類似の論文は以下のように多い。
+金属表面の欠陥対応モデルに関する論文、他にもいろいろ読んだ。
 
 * 熱間圧延鋼板の表面欠陥　(1675のサンプルデータで学習）
 www.mdpi.com/2075-4701/7/8/311/pdf
@@ -128,11 +128,11 @@ http://mit.imt.si/Revija/izvodi/mit171/zhou.pdf
 * 線路の表面欠陥
 https://pdfs.semanticscholar.org/b2b8/ab163fb0183325dd3458e3cbaad2f8bf265e.pdf
 
-今回の論文、US$30で買いました。
+でも転移学習は今回の論文だけ、US$30で買いました。
 
 ---
 
-##→画像回りのニッチなAIビジネスには転移学習を！
+## →　画像回りのニッチなAIビジネスには転移学習を！
 
 おわり
 
