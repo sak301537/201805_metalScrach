@@ -46,7 +46,8 @@ https://ieeexplore.ieee.org/document/7864335/
 そこで画像認識の既存学習モデル・・・Decafを利用、少量データ学習を試した。
 
 
-<img src="http://faculty.neu.edu.cn/yunhyan/Webpage%20for%20article/NEU%20surface%20defect%20database/Fig.1.jpg" width="400" height="400" />
+
+<img src="http://faculty.neu.edu.cn/yunhyan/Webpage%20for%20article/NEU%20surface%20defect%20database/Fig.1.jpg" width="400" height="380" />
 
 
 
