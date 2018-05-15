@@ -9,10 +9,10 @@ for Automated Surface Inspection
 Submitted on 2018/03
 by Ruoxu Ren, Terence Hung, and Kay Chen Tan, Fellow, IEEE
 
+<img src="https://ieeexplore.ieee.org/mediastore/IEEE/content/freeimages/6221036/8283862/7864335/ren-2668395-small.gif" width="150" height="190" />
 
-https://arxiv.org/abs/1708.06297
 
-論文紹介 by github.com/exoego
+https://ieeexplore.ieee.org/document/7864335/
 
 ---
 
@@ -32,7 +32,7 @@ https://arxiv.org/abs/1708.06297
 * 視認検査は基準があいまい。検査者の主観に頼る。
 * 出荷側と受入れ側でよく揉める。担当者が代わると基準が変わってまた揉める。。(限度見本をよく使う )
 
-<img src="http://01.gatag.net/img/201506/03l/gatag-00006107.jpg" width="200" height="250" />
+<img src="http://01.gatag.net/img/201506/03l/gatag-00006107.jpg" width="190" height="230" />
 
 
 
@@ -40,7 +40,8 @@ https://arxiv.org/abs/1708.06297
 
 ## どうやって有効だと検証した？
 
-データ数は非常に少ない。金属損傷のデータベースサイトから300のサンプルを取得するなど
+データ数は非常に少ない。金属損傷のデータベースサイトから300のサンプル、ロールスロイスシンガポールから
+
 
 そこで画像認識の既存学習モデル・・・Decafを利用、少量データ学習を試した。
 
@@ -107,7 +108,7 @@ Caffe（BAIR） の前身。ImageNetで1000の分類で鍛えた画像認識の�
 
 * ところでこの論文書いたのはシンガポールの女性技術者。日本も頑張れ！
 
-<img src="https://ieeexplore.ieee.org/mediastore/IEEE/content/freeimages/6221036/8283862/7864335/ren-2668395-small.gif" width="150" height="200" />
+
 
 
 
