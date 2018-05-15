@@ -132,7 +132,7 @@ https://pdfs.semanticscholar.org/b2b8/ab163fb0183325dd3458e3cbaad2f8bf265e.pdf
 
 ---
 
-## →　画像回りのニッチなAIビジネスには転移学習を！
+## →　画像回りのニッチなAIビジネスには転移学習で！
 
 おわり
 
